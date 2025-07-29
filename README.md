@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm **Tanay Roy**<br><br>🎓 **B.Tech in Computer Science & Engineering** (3rd Year)<br>🌐 Currently learning **Web Development**<br>💡 **Ask me about:**<br>    🔹 **C**<br>    🔹 **Java**<br>    🔹 **Data Structures & Algorithms**<br>    🔹 **Web Development**<br><br>📫 **Reach out to me at:** [troy13451@gmail.com](mailto:troy13451@gmail.com)<br>📌 **Pronouns:** He/Him<br>🌟 **Follow me** if you enjoy my projects — your support means a lot!
 
-
+![Profile views](https://komarev.com/ghpvc/?username=TanayRoy18&label=Profile%20views&color=0e75b6&style=flat)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:troy13451@gmail.com) 
 
@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayRoy18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TanayRoy18&icon=0&color=0)](https://visitcount.itsvg.in)
+
